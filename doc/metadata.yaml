@@ -4,12 +4,21 @@ github_description: L C meter
 github_repo: LCM01
 github_url: https://github.com/mlab-modules/LCM01
 homepage: false
-images: []
+images:
+- doc/gen/img/LCM01-bottom.png
+- doc/gen/img/LCM01-top.png
+- doc/gen/LCM01-schematic.svg
+- doc/gen/img/LCM01-bottom.svg
+- doc/gen/img/LCM01-top.svg
+- hw/cam_profi/assembly/LCM01-assembly_page_02.svg
+- hw/cam_profi/assembly/LCM01-assembly_page_01.svg
 mark: 50
+mod_ibom: hw/cam_profi/LCM01-ibom.html
+mod_scheme: doc/gen/LCM01-schematic.pdf
 status: 0
 tags:
 - mlab
 - capacitor
 - inductometer
 title: LCM01
-updated: '2024-07-04T22:58:02.779980+00:00'
+updated: '2024-07-04T23:00:08.900793+00:00'
