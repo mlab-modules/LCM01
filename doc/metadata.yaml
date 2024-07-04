@@ -1,5 +1,6 @@
-description: null
+description: L C meter
 github_branch: LCM01A
+github_description: L C meter
 github_repo: LCM01
 github_url: https://github.com/mlab-modules/LCM01
 homepage: false
@@ -8,5 +9,7 @@ mark: 50
 status: 0
 tags:
 - mlab
-- mlab-module
+- capacitor
+- inductometer
 title: LCM01
+updated: '2024-07-04T22:58:02.779980+00:00'
